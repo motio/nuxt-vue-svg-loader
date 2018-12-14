@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-vue-svg-loader",
+  "version": "1.0.0",
+  "description": "nuxt + vue-svg-loader demo",
+  "author": "Keita Sakamoto",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "vue-svg-loader": "^0.11.0"
+  }
+}
